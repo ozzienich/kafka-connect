@@ -1,4 +1,4 @@
-# kafka-connect
+# kafka-rest-connector
 kafka-connector REST build with scala
 
 ```
